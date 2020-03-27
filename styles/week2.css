@@ -1,0 +1,22 @@
+/* 
+File Name: week2.css 
+Date: 10/04/18 
+Programmer: Illya King 
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+#paraOne {
+    color: blue;
+}
